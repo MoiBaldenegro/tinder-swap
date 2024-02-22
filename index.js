@@ -1,6 +1,6 @@
 let isAnimating = false;
 let pullDeltaX = 0; // cantidad de arrastre
-const TRESHOLD_VALUE = 75;
+const TRESHOLD_VALUE = 125;
 
 
 
